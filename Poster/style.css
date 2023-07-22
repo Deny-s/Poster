@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+}
+
+.Poster{
+    color: white;
+    font-family: 'Lugrasimo', cursive;
+    text-align: center;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 100px;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+.photo{
+    border: 5px solid white;
+    width: 100%;
+}
